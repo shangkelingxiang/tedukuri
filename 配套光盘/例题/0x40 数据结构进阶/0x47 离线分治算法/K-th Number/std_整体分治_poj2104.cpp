@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstdio>
-#include <cstring>
+#include <cstring
 #include <algorithm>
 using namespace std;
 const int N = 100010, INF = 1e9;
